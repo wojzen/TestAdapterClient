@@ -1,1 +1,1 @@
-// code of the TestAdapterClient
+// code of the TestAdapterClient version 1.3
